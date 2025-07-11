@@ -1,0 +1,580 @@
+[
+  {
+    "region": "01 - Buttermilk County",
+    "name": "Buttermilk County B - Harmonica 1 - Bronze",
+    "victory": false,
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County B - Harmonica 1 - Silver",
+    "region": "01 - Buttermilk County",
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County D - Sharp Cheddar 2 - Bronze",
+    "region": "01 - Buttermilk County",
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County D - Sharp Cheddar 2 - Silver",
+    "region": "01 - Buttermilk County",
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "01 - Buttermilk County",
+    "name": "Buttermilk County E - Cashew 3 - Bronze",
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County E - Cashew 3 - Silver",
+    "region": "01 - Buttermilk County",
+    "category": [
+      "01 - Buttermilk County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "02 - Evergreen Meadows",
+    "name": "Evergreen Meadows A - Jiggly Hills 1 - Bronze",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "region": "02 - Evergreen Meadows",
+    "name": "Evergreen Meadows A - Jiggly Hills 1 - Silver",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows B - Cheesyblasters 4 - Bronze",
+    "region": "02 - Evergreen Meadows",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "vergreen Meadows B - Cheesyblasters 4 - Silver",
+    "region": "02 - Evergreen Meadows",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows G - Stale Chips 6 - Bronze",
+    "region": "02 - Evergreen Meadows",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows G - Stale Chips 6 - Silver",
+    "region": "02 - Evergreen Meadows",
+    "category": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Halcyon County A - Piping Hot 1 - Bronze",
+    "region": "03 - Halcyon County",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Halcyon County A - Piping Hot 1 - Silver",
+    "region": "03 - Halcyon County",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "03 - Halcyon County",
+    "name": "Halcyon County B - Irish Coffee 1 -  Bronze",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "03 - Halcyon County",
+    "name": "Halcyon County B - Irish Coffee 1 - Silver",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "03 - Halcyon County",
+    "name": "Halcyon County H - Pickled 6 - Bronze",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "03 - Halcyon County",
+    "name": "Halcyon County H - Pickled 6 - Silver",
+    "category": [
+      "03 - Halcyon County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "04 - Tyrell County",
+    "name": "Tyrell County A - Cordilla 1 - Bronze",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "04 - Tyrell County",
+    "name": "Tyrell County A - Cordilla 1 - Silver",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tyrell County C - Risky Brisket 1 - Bronze",
+    "region": "04 - Tyrell County",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tyrell County C - Risky Brisket 1 - Silver",
+    "region": "04 - Tyrell County",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tyrell County I - Bland 1 - Bronze",
+    "region": "04 - Tyrell County",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tyrell County I - Bland 1 - Silver",
+    "region": "04 - Tyrell County",
+    "category": [
+      "04 - Tyrell County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love County A - Lavender 1 - Bronze",
+    "region": "05 - Love County",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love County A - Lavender 1 - Silver",
+    "region": "05 - Love County",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love County G - Endurance 1 - Bronze",
+    "region": "05 - Love County",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love County G - Endurance 1 - Silver",
+    "region": "05 - Love County",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love County J - Tomato Sauce 1 - Bronze",
+    "region": "05 - Love County",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "region": "05 - Love County",
+    "name": "Love County J - Tomato Sauce 1 - Silver",
+    "category": [
+      "05 - Love County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains A - Modern Chow 1 - Bronze",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains A - Modern Chow 1 - Silver",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains E - Melted Butter 2 - Bronze",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains E - Melted Butter 2 - Silver",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains H - Tarnation 2 - Bronze",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glint Plains H - Tarnation 2 - Silver",
+    "region": "06 - Glint Plains",
+    "category": [
+      "06 - Glint Plains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County A - Demiglaze 1 - Bronze",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County A - Demiglaze 1 - Silver",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County E - Lumberjack 6 - Bronze",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County E - Lumberjack 6 - Silver",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County J - Ambrosial 2 - Bronze",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grandview County J - Ambrosial 2 - Silver",
+    "region": "07 - Grandview County",
+    "category": [
+      "07 - Grandview County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans A - Deep Dish 1 - Bronze",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans A - Deep Dish 1 - Silver",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans C - Endless Screaming 4 - Bronze",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans C - Endless Screaming 4 - Silver",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans J - Blood Road 1 - Bronze",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newer Orleans J - Blood Road 1 - Silver",
+    "region": "08 - Newer Orleans County",
+    "category": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central A - Gluten-Free 1 - Bronze",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central A - Gluten-Free 1 - Silver",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central C - Decaffeinated 4 - Bronze",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central C - Decaffeinated 4 - Silver",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central I - Food Coma 1 - Bronze",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metro Central I - Food Coma 1 - Silver",
+    "region": "09 - Metro Central",
+    "category": [
+      "09 - Metro Central"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor A - Sip and Stir 1 - Bronze",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor A - Sip and Stir 1 - Silver",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor B - Krispy Keys 4 - Bronze",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor B - Krispy Keys 4 - Silver",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor H - Endgame 1 - Bronze",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drydock Harbor H - Endgame 1 - Silver",
+    "region": "10 - Drydock Harbor",
+    "category": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County A - Flapjacks 1 - Bronze",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County A - Flapjacks 1 - Silver",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County E - Blazing Hot 4 - Bronze",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County E - Blazing Hot 4 - Silver",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County J  - Dead End 1 - Bronze",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Davidson County J - Dead End 1 - Silver",
+    "region": "11 - Davidson County",
+    "category": [
+      "11 - Davidson County"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway A - Mushroom Cup 1 - Bronze",
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway A - Mushroom Cup 1 - Silver",
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway G - Medium Cup w/Ice 2 - Bronze",
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway G - Medium Cup w/Ice 2 - Silver",
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway J - Champion Cup 3 - Bronze",
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iron Cook Speedway J - Champion Cup 3 - Silver",
+    "victory": true,
+    "region": "12 - Iron Cook Speedway",
+    "category": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": []
+  }
+]

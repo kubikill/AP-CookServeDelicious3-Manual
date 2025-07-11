@@ -1,0 +1,73 @@
+{
+  "01 - Buttermilk County": {
+    "starting": true,
+    "connects_to": [
+      "02 - Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  "02 - Evergreen Meadows": {
+    "connects_to": [
+      "03 - Halcyon County"
+    ],
+    "requires": "|@Entrance Permit:1|"
+  },
+  "03 - Halcyon County": {
+    "connects_to": [
+      "04 - Tyrell County"
+    ],
+    "requires": "|@Entrance Permit:2|"
+  },
+  "04 - Tyrell County": {
+    "connects_to": [
+      "05 - Love County"
+    ],
+    "requires": "|@Entrance Permit:3|"
+  },
+  "05 - Love County": {
+    "connects_to": [
+      "06 - Glint Plains"
+    ],
+    "requires": "|@Entrance Permit:4|"
+  },
+  "06 - Glint Plains": {
+    "connects_to": [
+      "07 - Grandview County"
+    ],
+    "requires": "|@Entrance Permit:5|"
+  },
+  "07 - Grandview County": {
+    "connects_to": [
+      "08 - Newer Orleans County"
+    ],
+    "requires": "|@Entrance Permit:6| AND |Prep Station (Progression):3|"
+  },
+  "08 - Newer Orleans County": {
+    "connects_to": [
+      "09 - Metro Central"
+    ],
+    "requires": "|@Entrance Permit:7|"
+  },
+  "09 - Metro Central": {
+    "connects_to": [
+      "10 - Drydock Harbor"
+    ],
+    "requires": "|@Entrance Permit:8| AND (|Calzone| OR |Creme Brulee|)"
+  },
+  "10 - Drydock Harbor": {
+    "connects_to": [
+      "11 - Davidson County"
+    ],
+    "requires": "|@Entrance Permit:9|"
+  },
+  "11 - Davidson County": {
+    "connects_to": [
+      "12 - Iron Cook Speedway"
+    ],
+    "requires": "|@Entrance Permit:10|"
+  },
+  "12 - Iron Cook Speedway": {
+    "connects_to": [],
+    "requires": "|@Entrance Permit:11|"
+  }
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "count": "11",
+    "name": "Entrance Permit",
+    "category": [
+      "Entrance Permit"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Prep Station (Progression)",
+    "category": [
+      "Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Prep Station (Additional)",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Holding Station",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Heat Lamps",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Cooking Time Regulator",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Rejuvenator",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Special System Analyzer",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Serving Cloner",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Food Truck Reinforcements",
+    "category": [
+      "Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Aroma Blower",
+    "category": [
+      "Upgrade"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Mandatory Extra Prep Station",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Bibimbap",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Calzone",
+    "category": [
+      "5-point Food"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Creme Brulee",
+    "category": [
+      "5-point Food"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pizza",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tamales",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wok Dish: Beef & Pork",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wok Dish: Chicken",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wok Dish: Shrimp & Veg.",
+    "category": [
+      "5-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beef Wellington",
+    "category": [
+      "4-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gazpacho",
+    "category": [
+      "4-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Food Truck Fries",
+    "category": [
+      "3-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ratatouille",
+    "category": [
+      "3-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Steak",
+    "category": [
+      "3-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Brisket Slices",
+    "category": [
+      "1-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ham Slices",
+    "category": [
+      "1-point Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Turkey Slices",
+    "category": [
+      "1-point Food"
+    ],
+    "useful": true
+  }
+]

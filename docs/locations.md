@@ -1,0 +1,74 @@
+# Locations
+
+- Buttermilk County B - Harmonica 1 - Bronze
+- Buttermilk County B - Harmonica 1 - Silver
+- Buttermilk County D - Sharp Cheddar 2 - Bronze
+- Buttermilk County D - Sharp Cheddar 2 - Silver
+- Buttermilk County E - Cashew 3 - Bronze
+- Buttermilk County E - Cashew 3 - Silver
+- Evergreen Meadows A - Jiggly Hills 1 - Bronze
+- Evergreen Meadows A - Jiggly Hills 1 - Silver
+- Evergreen Meadows B - Cheesyblasters 4 - Bronze
+- Evergreen Meadows B - Cheesyblasters 4 - Silver
+- Evergreen Meadows G - Stale Chips 6 - Bronze
+- Evergreen Meadows G - Stale Chips 6 - Silver
+- Halcyon County A - Piping Hot 1 - Bronze:
+- Halcyon County A - Piping Hot 1 - Silver
+- Halcyon County B - Irish Coffee 1 -  Bronze
+- Halcyon County B - Irish Coffee 1 - Silver
+- Halcyon County H - Pickled 6 - Bronze
+- Halcyon County H - Pickled 6 - Silver
+- Tyrell County A - Cordilla 1 - Bronze
+- Tyrell County A - Cordilla 1 - Silver
+- Tyrell County C - Risky Brisket 1 - Bronze
+- Tyrell County C - Risky Brisket 1 - Silver
+- Tyrell County I - Bland 1 - Bronze
+- Tyrell County I - Bland 1 - Silver
+- Love County A - Lavender 1 - Bronze
+- Love County A - Lavender 1 - Silver
+- Love County G - Endurance 1 - Bronze
+- Love County G - Endurance 1 - Silver
+- Love County J - Tomato Sauce 1 - Bronze
+- Love County J - Tomato Sauce 1 - Silver:
+- Glint Plains A - Modern Chow 1 - Bronze
+- Glint Plains A - Modern Chow 1 - Silver
+- Glint Plains E - Melted Butter 2 - Bronze
+- Glint Plains E - Melted Butter 2 - Silver:
+- Glint Plains H - Tarnation 2 - Bronze
+- Glint Plains H - Tarnation 2 - Silver
+- Grandview County A - Demiglaze 1 - Bronze
+- Grandview County A - Demiglaze 1 - Silver
+- Grandview County E - Lumberjack 6 - Bronze
+- Grandview County E - Lumberjack 6 - Silver
+- Grandview County J - Ambrosial 2 - Bronze
+- Grandview County J - Ambrosial 2 - Silver
+- Newer Orleans A - Deep Dish 1 - Bronze
+- Newer Orleans A - Deep Dish 1 - Silver
+- Newer Orleans C - Endless Screaming 4 - Bronze
+- Newer Orleans C - Endless Screaming 4 - Silver
+- Newer Orleans J - Blood Road 1 - Bronze
+- Newer Orleans J - Blood Road 1 - Silver
+- Metro Central A - Gluten-Free 1 - Bronze
+- Metro Central A - Gluten-Free 1 - Silver
+- Metro Central C - Decaffeinated 4 - Bronze
+- Metro Central C - Decaffeinated 4 - Silver
+- Metro Central I - Food Coma 1 - Bronze
+- Metro Central I - Food Coma 1 - Silver
+- Drydock Harbor A - Sip and Stir 1 - Bronze
+- Drydock Harbor A - Sip and Stir 1 - Silver
+- Drydock Harbor B - Krispy Keys 4 - Bronze
+- Drydock Harbor B - Krispy Keys 4 - Silver
+- Drydock Harbor H - Endgame 1 - Bronze
+- Drydock Harbor H - Endgame 1 - Silver
+- Davidson County A - Flapjacks 1 - Bronze
+- Davidson County A - Flapjacks 1 - Silver
+- Davidson County E - Blazing Hot 4 - Bronze
+- Davidson County E - Blazing Hot 4 - Silver
+- Davidson County J  - Dead End 1 - Bronze
+- Davidson County J - Dead End 1 - Silver
+- Iron Cook Speedway A - Mushroom Cup 1 - Bronze
+- Iron Cook Speedway A - Mushroom Cup 1 - Silver
+- Iron Cook Speedway G - Medium Cup w/Ice 2 - Bronze
+- Iron Cook Speedway G - Medium Cup w/Ice 2 - Silver
+- Iron Cook Speedway J - Champion Cup 3 - Bronze
+- **GOAL** Iron Cook Speedway J - Champion Cup 3 - Silver
