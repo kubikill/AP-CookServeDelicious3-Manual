@@ -34,13 +34,13 @@
     "connects_to": [
       "07 - Grandview County"
     ],
-    "requires": "|@Entrance Permit:5|"
+    "requires": "|@Entrance Permit:5| AND |Prep Station (Progression):3|"
   },
   "07 - Grandview County": {
     "connects_to": [
       "08 - Newer Orleans County"
     ],
-    "requires": "|@Entrance Permit:6| AND |Prep Station (Progression):3|"
+    "requires": "|@Entrance Permit:6|"
   },
   "08 - Newer Orleans County": {
     "connects_to": [
